@@ -1,0 +1,17 @@
+.form_container{
+    background: #e9e9e9;
+    padding: 10px;
+    width: 700px;
+    margin: 100px auto;
+}
+
+@media (max-width: 1200px) {
+    h1{
+        font: 30px 'Times New Roman';
+    }
+}
+@media (max-width: 500px) {
+    h1{
+        font: 26px 'Times New Roman';
+    }
+}
